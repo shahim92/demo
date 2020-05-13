@@ -1,0 +1,7 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Functional">
+<test name="Ebay">
+<classes><class name="com.piit.ebay.com.TestEbay"></class>
+</classes>
+</test>
+</suite>
